@@ -1,7 +1,5 @@
 """
-HackerRank Sertifikat Skrinshot Dasturi
-========================================
-Faqat sertifikat kartasini kesib oladi (header/footer yo'q).
+WEB sayt Skrinshot Dasturi
 
 O'rnatish:
     pip install playwright Pillow
